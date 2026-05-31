@@ -47,7 +47,7 @@ Système de prédiction de maladies cardiovasculaires avec 5 algorithmes ML.
 ## 🔗 Links
 
 - **GitHub**: https://github.com/othmansebbar
-- **LinkedIn**: https://linkedin.com/in/othmansebbar
+
 
 ---
 
